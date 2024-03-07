@@ -22,5 +22,29 @@
         "imagestorage": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-knowledgenest-dev-125833-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418132207:role/amplify-knowledgenest-dev-125833-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418132207:role/amplify-knowledgenest-dev-125833-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-knowledgenest-dev-125833-deployment",
+      "UnauthRoleName": "amplify-knowledgenest-dev-125833-unauthRole",
+      "StackName": "amplify-knowledgenest-dev-125833",
+      "StackId": "arn:aws:cloudformation:us-west-1:905418132207:stack/amplify-knowledgenest-dev-125833/767262e0-dcc5-11ee-9c3f-02adba931f8f",
+      "AmplifyAppId": "d3l7be8oy35jmd"
+    },
+    "categories": {
+      "auth": {
+        "knowledgenest44fc56fc": {}
+      },
+      "api": {
+        "knowledgenest": {}
+      },
+      "storage": {
+        "imagestorage": {}
+      }
+    }
   }
 }
